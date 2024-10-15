@@ -5,4 +5,4 @@
 
  ## html project
  
- live link: https://github.com/bithewdp/tailwindcss-by-daisyui
+ live link:  https://bithewdp.github.io/tailwindcss-by-daisyui/
